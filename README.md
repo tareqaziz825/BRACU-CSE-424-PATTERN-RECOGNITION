@@ -289,13 +289,12 @@ plt.show()
 
 ## 👥 Team Members
 
-| Name | Student ID | Role |
-|------|------------|------|
-| **Mohammod Tareq Aziz Justice** | - | Team Lead, Model Development |
-| **Driciru Fiona** | - | Data Collection & Processing |
-| **Ajani Denish** | - | Feature Engineering |
-| **Sudirgha Chakma** | - | Visualization & Analysis |
-| **Adib Muhammad Amit** | - | Documentation |
+| Name | Contributions |
+|------|------|
+| **Mohammod Tareq Aziz Justice** | Team Lead, Model Development |
+| **Driciru Fiona** | Data Collection & Processing |
+| **Ajani Denish** | Feature Engineering |
+| **Sudirgha Chakma** | Visualization & Analysis
 
 ## 🙏 Acknowledgements & Supervision
 
