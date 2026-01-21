@@ -305,16 +305,12 @@ Department of Computer Science and Engineering
 BRAC University  
 📧 Email: annajiat@bracu.ac.bd
 
-### Course Support
+### Research Support
 **Sadiul Arefin Rafi**  
 Adjunct Lecturer  
 Department of Computer Science and Engineering  
 BRAC University  
 📧 Email: ext.sadiul.rafi@bracu.ac.bd
-
-We express our sincere gratitude to our instructors for their invaluable guidance, continuous support, and expertise throughout this research project. Their insights into pattern recognition methodologies and machine learning best practices were instrumental in shaping our work.
-
-Special thanks to BRAC University for providing the resources and academic environment necessary for conducting this research.
 
 ## 📚 References
 
@@ -339,12 +335,6 @@ Special thanks to BRAC University for providing the resources and academic envir
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-For questions or collaboration opportunities, please reach out to:
-- **Project Repository**: [GitHub](https://github.com/tareqaziz825/BRACU-CSE-424-PATTERN-RECOGNITION)
-- **Paper**: [IEEE Format PDF](https://github.com/tareqaziz825/BRACU-CSE-424-PATTERN-RECOGNITION/blob/main/CSE%20424%20Project%20Paper%20IEEE.pdf)
 
 ---
 
